@@ -11,24 +11,6 @@
 - AWS Amplify
 - React
 
-## プロジェクトフォルダ構造
-
-realtime-chat-app/
-│
-├── amplify/
-│ ├── .gitignore
-│ ├── package.json
-│ ├── src/
-│ │ ├── index.js
-│ │ └── App.js
-│ └── public/
-│ └── index.html
-│
-├── backend/
-│ ├── app.py
-│ └── requirements.txt
-│
-└── README.md
 
 perl
 コードをコピーする
